@@ -43,5 +43,4 @@ dependencies { // 버전을 명시하지 않아야 맨위에 설정한 ${springB
 
     testCompile('org.springframework.boot:spring-boot-starter-test')
     testCompile('org.springframework.security:spring-security-test')
-
 }
